@@ -21,3 +21,7 @@ To enhance the user experience, I implemented error handling to manage cases whe
 The design of the webpage is modern and visually appealing, with a gradient background and a centered weather card that uses Bootstrap for responsiveness. The weather card includes subtle animations to enhance the user experience, making the application feel dynamic and interactive. The use of Google Fonts and Font Awesome icons further enhances the visual appeal of the webpage, providing a polished and professional look.
 
 This project demonstrates my ability to integrate third-party APIs into a web application, dynamically update the DOM based on API responses, and create a responsive and user-friendly interface. It also highlights my skills in using JavaScript for asynchronous data fetching and DOM manipulation, as well as my proficiency in using CSS and Bootstrap for styling and layout. The project is a great example of how to build a functional and visually appealing web application that leverages external data sources to provide real-time information to users.
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/abff9bae-520d-496a-b011-34c9ff5cc327)
